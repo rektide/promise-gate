@@ -1,6 +1,6 @@
 {
 	"name": "promise-gate",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "wrap a function in a 'gate' function that must run first",
 	"main": "promise-gate.js",
 	"scripts": {
@@ -10,7 +10,7 @@
 		"type": "git",
 		"url": "https://archive.voodoowarez.com/promise-gate"
 	},
-	"keywords": [],
+	"keywords": ["promise", "gate", "wrap"],
 	"author": "rektide de la faye",
 	"license": "X11",
 	"dependencies": {
